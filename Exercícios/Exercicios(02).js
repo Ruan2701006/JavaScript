@@ -75,4 +75,15 @@ const Adicao =
 }
 Adicao.informacoes();
 
+/*Exercício 3: Lista de Compras
+Crie um objeto literal que represente uma 
+lista de compras, onde cada item da lista é uma 
+propriedade com o nome do item e a quantidade desejada.*/
+
+const Lista =
+{
+    Leite1: 2
+    Pão: 3
+    Queijo: 1
+}
 
